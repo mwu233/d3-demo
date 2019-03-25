@@ -1,0 +1,6 @@
+iv. Datum Example 1.7 binding a datum to the innerRect selection in main.js
+
+to see the __data__: 
+1. click <rect .../rect> in the elements >> 
+2. click Properties
+3. Scroll down >> see __data__ which is 400
